@@ -1,4 +1,4 @@
-# Placement Interview
+# Placement Interview Example Repo
 
 ## Purpose and Intent
 The primary intent of this placement interview format is to provide a standardized, objective assessment of a participant's technical proficiency in a live environment. This format serves distinct purposes that align with industry standards while complementing the program's existing evaluation components.
